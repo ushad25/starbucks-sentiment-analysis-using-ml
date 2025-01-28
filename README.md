@@ -1,7 +1,7 @@
 # starbucks-sentiment-analysis-using-ml
 # Starbucks Sentiment Analysis: Uncovering Customer Feedback Using NLP and Logistic Regression(TASK 2)
 
-# **Sentiment Analysis on Starbucks Customer Reviews**  
+ 
 *A Machine Learning Project by CodeTech IT Solutions*
 
 ---
